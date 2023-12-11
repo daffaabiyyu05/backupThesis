@@ -1,0 +1,14 @@
+Subjek:
+[S01] 073 : Daffa AR
+[S02] 005 : Alvin Kuro
+[S03] 010 : Nurulia WPE
+[S04] 001 : Raka Zein Akbar
+
+Resolusi + Frame:
+640 x 480   [|30] : 079
+480 x 848   [|60] : 010
+1920 x 1080 [~30] : 002
+1920 x 1080 [|30] : 001
+
+[LAST UPDATE]
+5 Sep 2023 10:21
