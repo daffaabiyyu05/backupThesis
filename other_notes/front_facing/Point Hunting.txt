@@ -1,0 +1,11 @@
+# 1 Nose
+#113 Left Eye
+#342 Right Eye
+
+#Tested Combination for Face-Left: 
+# [1,113,342] --> Negative Y Axis
+# [1,342,113] --> Negative XY Axis
+# [113,1,342] --> Negative XY Axis
+# [113,342,1] --> 1k Axis?
+# [342,113,1] --> Middile Negative Y Axis
+# [342,1,113] --> Negative XY Axis

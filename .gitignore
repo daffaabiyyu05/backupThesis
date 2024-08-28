@@ -151,7 +151,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/other_notes
+/other_notes/other_files
+/other_notes/visikom-code
 /lstm_theo/Preprocessed_norm
 /lstm_theo/test_landmark_norm
 /lstm_theo/train_landmark_norm
