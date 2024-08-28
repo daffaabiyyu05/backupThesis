@@ -1,0 +1,11 @@
+How to use:
+- Prepare required folders as determined in dataset_creator.py
+- Run dataset_creator.py
+- Run train_model_(insertmodel).py <-- Configure file as needed
+
+Notes:
+- Files generated from the ParseVideo scripts are not normalized (iirc)
+- Confirm normalization by checking for both 0 and 1 existence in data
+- Use transfer_train_test_xy_norm to gain normalized data before create dataset
+- (iirc) final dataset used is BN1 which uses entire collection of data
+- norm files are provided in this folder for quick recreation

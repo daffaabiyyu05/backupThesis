@@ -1,0 +1,6 @@
+67.96% = best_model_cnn_lm_xy_8-16-32_dense128_8_100_3
+65.49% = best_model_cnn_lm_xy_softmax_8-16-32_dense128_8_100_3
+64.39% = best_model_cnn_lm_xy_8-16-32_dense128LRELU_drop2final_8_100_3
+64.11% = best_model_cnn_lm_xy_8-16-32_dense128_drop2final_8_100_3
+57.82% = best_model_cnn_lm_xy_8-16-32_dense128LRELU_8_100_3
+56.45% = best_model_lstm_lm_xy_cnn8-16-32_dense128_8_10_3

@@ -1,0 +1,3 @@
+best_model_cnn_lstm_norm_lm_xy_conv1d4u5k_dense4_lstm8_8_100_3:
+- Huruf A lemah (sering kena override E)
+- Kalau bicara cepat pergantian kesulitan keep-up (kondisi 3 Frame Gap)
